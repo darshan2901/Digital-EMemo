@@ -1,0 +1,64 @@
+{
+  "appTitle": "e_chalan",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+ "onbtitle1":"Quick Scan",
+ "@onbtitle1":{
+    "description": "The title of the onboarding one"
+  },
+  "onbtitle2":"Digital Chalan",
+  "@onbtitle2":{
+    "description": "The title of the onboarding two"
+  },
+  "onbtitle3":"No Fraud",
+  "@onbtitle3":{
+    "description": "The title of the onboarding three"
+  },
+  "onbdesc1":"Scan number plate and get a quick response.",
+  "@onbdesc1":{
+    "description": "The description of the onboarding one"
+  },
+  "onbdesc2":"Digitalize your chalan and get a instant reciept.",
+  "@onbdesc2":{
+    "description": "The description of the onboarding two"
+  },
+  "onbdesc3":"No fraud in the traffic violation.",
+  "@onbdesc3":{
+    "description": "The description of the onboarding three"
+  },
+"vehicle_number":"vehicle number",
+"@vehicle_number":{
+    "description": "The vehicle number"
+  },
+"vehicle_type":"vehicle type",
+"@vehicle_type":{
+    "description": "The vehicle type"
+  },
+"vehicle_owner":"vehicle owner",
+"@vehicle_owner":{
+    "description": "The vehicle owner"
+  },
+"vehicle_owner_address":"vehicle owner address",
+"@vehicle_owner_address":{
+    "description": "The vehicle owner address"
+  },
+"vehicle_owner_mobile":"vehicle owner mobile",
+"@vehicle_owner_mobile":{
+    "description": "The vehicle owner mobile"
+  },
+"vehicle_owner_email":"vehicle owner email",
+"@vehicle_owner_email":{
+    "description": "The vehicle owner email"
+  },
+
+"enter_vehicle_number":"Enter vehicle number for Digital chalan",
+"@enter_vehicle_number":{
+    "description": "The enter vehicle number"
+  },
+"scanvehicle_number":"scan vehicle number",
+"@scan_vehicle_number":{
+    "description": "The scan vehicle number"
+  }
+
+}

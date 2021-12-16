@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78701598639",
+    "project_id": "final-e-challan-project",
+    "storage_bucket": "final-e-challan-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78701598639:android:d5c89c27a0d90c9ff6015a",
+        "android_client_info": {
+          "package_name": "com.example.e_chalan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78701598639-22ggnsmu5qfo1k2of58ijgvrmga4bsa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPW2Fer2S3UuAqBM2slm80yZxUELuLELI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78701598639-22ggnsmu5qfo1k2of58ijgvrmga4bsa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
