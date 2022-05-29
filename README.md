@@ -28,3 +28,7 @@ the `lib/src/localization` directory.
 To support additional languages, please visit the tutorial on
 [Internationalizing Flutter
 apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+
+## Application
+
+Downaload Application: [Click here](https://github.com/darshan2901/Digital-EMemo/blob/master/assets/E%20-%20Challan%20App.apk?raw=true)
